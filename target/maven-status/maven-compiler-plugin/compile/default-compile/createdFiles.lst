@@ -1,0 +1,4 @@
+db/UsersEntity.class
+db/HibernateSessionFactory.class
+db/PasswordsEntity.class
+db/Main.class
